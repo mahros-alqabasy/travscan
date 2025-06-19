@@ -1,0 +1,8 @@
+travscan/
+├── travscan.sh          # Main entry point
+├── lib/
+│   └── payloads.sh      # Payloads array
+│   └── utils.sh         # Reusable functions
+├── output/
+│   └── logs/            # Log files saved here
+├── README.md
